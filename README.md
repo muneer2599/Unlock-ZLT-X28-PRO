@@ -33,18 +33,7 @@ Open your browser’s **Developer Tools**. The default shortcuts are:
 
 - **Windows/Linux**:  
   - `F12` → Opens the last used developer tools panel  
-  - `Ctrl + Shift + I` → Opens developer tools  
-  - `Ctrl + Shift + J` → Opens the Console panel  
-  - `Ctrl + Shift + C` → Opens the Elements panel  
 
-- **macOS**:  
-  - `Option + Command + I` → Opens developer tools  
-  - `Option + Command + J` → Opens the Console panel  
-  - `Option + Command + C` → Opens the Elements panel  
-
-- **Other methods**:  
-  - Right-click any element → **Inspect / Inspect Element**  
-  - Safari: Enable the Developer menu in **Preferences > Advanced**, then use **Develop > Show Web Inspector**.  
 
 Inside Developer Tools, switch to the **Network** tab, select any request, and copy the `sessionId` value. Save it for later use.  
 
