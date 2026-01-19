@@ -3,21 +3,6 @@
 # 🔓 ZLT X28 PRO Modem Unlock
 
 ---
-
-### ✨ ZLT X28 PRO Modem Unlock & Custom Admin Panel
-![](img/zlt.jpg)
-
-
-### 📊 Device Specifications
-
-| Model | Software Version |
-|------------|----------------|
-| ZLT X28    | 1.5.13         |
-
-## 🚨 Serious warning
-**If your modem version is different and you use this method, the modem panel will break.**
-
----
 ## Overview  
 The ZLT X28 modem is based on a customized snapshot of [OpenWrt](https://www.google.com/search?q=OpenWrt). Unlocking this modem is straightforward but requires access to another modem (any brand or model) with an active internet connection.  
 
