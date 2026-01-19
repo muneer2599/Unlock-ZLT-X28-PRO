@@ -1,10 +1,10 @@
 <!-- README.md -->
 
-# 🔓 ZLT X28 | ZLT X28 Modem Unlock
+# 🔓 ZLT X28 PRO Modem Unlock
 
 ---
 
-### ✨ ZLT X28 Modem Unlock & Custom Admin Panel
+### ✨ ZLT X28 PRO Modem Unlock & Custom Admin Panel
 ![](img/zlt.jpg)
 
 
